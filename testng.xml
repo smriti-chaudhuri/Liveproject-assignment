@@ -1,0 +1,13 @@
+<suite name="TestNg LIVEPROJECT">
+	<test name="Regression" allow-return-values="true">
+		<classes>
+		       <class name="AMAZONLIVE.AMAZONLOGIN" />
+	          <class name="AMAZONLIVE.addressmodule" />
+	          <class name="AMAZONLIVE.loginandsequrity" />
+	          <class name="AMAZONLIVE.ordermodule" />
+	          <class name="AMAZONLIVE.shoppingcart" />
+	          <class name="AMAZONLIVE.paymentmodule" />
+	         <class name="AMAZONLIVE.paginationamazon" />
+		</classes>
+		</test>
+</suite>
